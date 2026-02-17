@@ -1,0 +1,17 @@
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local test directories
+test/
+temp/
+.mysetup/
+
+.msgtag
+.msgcommit
