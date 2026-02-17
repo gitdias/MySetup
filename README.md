@@ -1,7 +1,7 @@
 # MySetup - My settings all in one place!  
 This repository is dedicated exclusively to all the configuration files I use in my Linux setup. On my adventures through the open‑source world I usually run Arch Linux, CachyOS, Debian, Fedora Workstation, Ubuntu Desktop, and soon some atomic distros like bluefinOS.
 ![Version](https://img.shields.io/badge/version-0.0.1-blue)
-![License](https://img.shields.io/badge/license-GPL-3.0-green)
+![License](https://img.shields.io/badge/license-GPL--3.0-green)
 ![Shell](https://img.shields.io/badge/shell-bash-lightgrey)
 ![Platform](https://img.shields.io/badge/platform-linux-orange)
 ---
